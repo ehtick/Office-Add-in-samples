@@ -33,7 +33,7 @@ Learn how to build an Office content add-in that displays details about the curr
 
 ### Display slide details
 
-When the user chooses the **Get slide details** button, the `getDataFromSelection()` function is called. This function calls `Office.context.document.getSelectedDataAsync()` to some details about the current slide. "Hello, world!" and those slide details are then displayed in the content add-in.
+When the user chooses the **Get slide details** button, the `getDataFromSelection()` function is called. This function calls `Office.context.document.getSelectedDataAsync()` to get some details about the current slide. "Hello, world!" and those slide details are then displayed in the content add-in.
 
 For more information, see [Content add-ins](https://learn.microsoft.com/office/dev/add-ins/design/content-add-ins?tabs=jsonmanifest).
 
