@@ -94,7 +94,7 @@ An Office Add-in requires you to configure a web server to provide all the resou
 1. Run the command `npm run start:prod`.
 
    After a few seconds, desktop Excel opens, and after a few seconds more, the content add-in appears over the current worksheet displaying a "Bind to data" screen and a **Bind to existing data** button. An **Insert sample data** button may also be displayed.
-     - If the content add-in doesn't appear, open the **Add-ins** button in the **Home** tab of the ribbon, then select the name of the content add-in, "Excel Content Add-in".
+     - If the content add-in doesn't appear, open the **Add-ins** button in the **Home** tab of the ribbon, then select the name of the content add-in, "Excel DV Content Add-in".
 
 1. Choose the **Insert sample data** button if available to add data to the worksheet and show the data visualization.
 1. Ensure that you have data on the worksheet. If the **Insert sample data** button isn't available, you'll need to manually add data to the sheet.
